@@ -1,0 +1,5 @@
+video-output/
+train_1/
+temp/
+final_model.model/
+weight.hdf5
